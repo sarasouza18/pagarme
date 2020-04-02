@@ -53,7 +53,7 @@ class PagarmeFilter
 
         ];
 
-        return $itemsJson;
+        return $format;
     }
 
     /**
